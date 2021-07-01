@@ -49,7 +49,8 @@
 | Amazon | https://developer.amazon.com/blogs |
 | Dropbox | https://blogs.dropbox.com/tech/ |
 | Ebay | https://tech.ebayinc.com/ |
-| Facebook | https://developers.facebook.com/blog/ |
+| Facebook Developers | https://developers.facebook.com/blog/ |
+| Facebook Engineering | https://engineering.fb.com/ |
 | Google | https://developers.googleblog.com/ |
 | Google Play | https://medium.com/googleplaydev |
 | Grab | https://engineering.grab.com/ |

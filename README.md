@@ -56,7 +56,8 @@
 | Grab | https://engineering.grab.com/ |
 | Instagram | https://instagram-engineering.com/ |
 | Linkedin | https://engineering.linkedin.com/blog |
-| Microsoft | https://devblogs.microsoft.com/ |
+| Microsoft Developer Blogs | https://devblogs.microsoft.com/ |
+| Microsoft Tech Community | https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs |
 | Netflix | https://medium.com/netflix-techblog |
 | Paypal | https://medium.com/paypal-engineering |
 | Riot Games | https://technology.riotgames.com/ |
